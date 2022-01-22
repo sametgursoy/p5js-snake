@@ -1,3 +1,5 @@
 # p5js-snake
 classic snake game with p5js
-Added swipe for mobile
+--
+Last Changes : 
+Added swipe for mobile, fixed collapse problem while snake is 2 block
