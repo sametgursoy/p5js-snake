@@ -6,4 +6,4 @@ Added swipe for mobile, fixed collapse problem while snake is 2 block
 
 -- Demo --
 
-https://www.yagami.net
+http://www.yagami.net
